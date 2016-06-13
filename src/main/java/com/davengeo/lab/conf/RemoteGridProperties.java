@@ -7,8 +7,8 @@ package com.davengeo.lab.conf;
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
-@ConfigurationProperties(prefix = "data-grid", ignoreUnknownFields = true)
 @Data
+@ConfigurationProperties(prefix = "data-grid", ignoreUnknownFields = true)
 public class RemoteGridProperties {
 
   private String hostname;
