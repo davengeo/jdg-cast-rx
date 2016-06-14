@@ -4,6 +4,7 @@
  */
 package com.davengeo.lab;
 
+import com.davengeo.lab.model.Customer;
 import lombok.extern.slf4j.Slf4j;
 import org.infinispan.client.hotrod.RemoteCache;
 import org.infinispan.client.hotrod.RemoteCacheManager;

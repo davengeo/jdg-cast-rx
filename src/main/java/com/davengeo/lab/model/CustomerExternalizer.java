@@ -2,7 +2,7 @@
  * Copyright (c) 2016 Proximus.
  * me@davengeo.com
  */
-package com.davengeo.lab;
+package com.davengeo.lab.model;
 
 import org.infinispan.commons.marshall.AdvancedExternalizer;
 import org.infinispan.commons.util.Util;
