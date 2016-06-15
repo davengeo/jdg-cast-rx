@@ -1,5 +1,12 @@
 /*
- * Copyright (c) 2016 Proximus.
+ * Made in 2016.
+ * http://www.apache.org/licenses/LICENSE-2.0
+ * me@davengeo.com
+ */
+
+/*
+ * Made in 2016.
+ * http://www.apache.org/licenses/LICENSE-2.0
  * me@davengeo.com
  */
 package com.davengeo.lab;
